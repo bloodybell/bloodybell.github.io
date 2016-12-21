@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 블로그 오픈.
 date: 2016-12-21 21:39:00
 ---
