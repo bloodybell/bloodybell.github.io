@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: 주령구
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 유니티, 안드로이드, 서브컬처, 잡다 한 것 등등
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://lh3.googleusercontent.com/CRJVv4TRaq88URoO0HJ7lCWaCRkNc3gIN334XCqCvG6I4VWL67mseJpRGabhUtJnyKHeO40DbI5hGIQjhJl5LRWsM_7Jro1jtn_W5c-1blnhjjzxCuu0uOQcUnTE77b8GLH5SZaG-lsK2gzxmSjviisqwbzzuE4TPtqfGOMIzV760R4mvPVHuX0FobzoiteHAONtLGlVAaCYM3hNQjIvV118M9vFxiNUeUc45E_k6vdEUN4r8mufvP8jPGSHNekTcBQmFC5Oc4baRJsKygwgQC2U2aXET882MbVOLu3NF8Qti97M6r_9ODfyBzsagcDsKf_UrlNHbGzZtHikoIwWEDDpHP0ZOtTzl3vlOEeQw3imw9sU1sztvOA6NWuPEz9BCtlBO7ItcA5h1NXGxmKlgYKfB7OI0emaYLv-WHlQ6APA9e-EyWUif5uWCaJ5-PvAIOHRngj9URkNls6t-nImJeBfugNEq7lnJKVpjiDKkuzalEwFIQV-ujqR6nqW3_neck9l_fyCPXge2Vsfr60gBIbZZkh9mNAaNTxMwllx5h_JF27_OYWoS4pT-mdSMUrfU_uoGyhfAfHkataY5-sSQs8vcJ6FPJD55hV1MLw5KsmpJZJbIyO83A=s500-no
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: bloodybell.lee@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
